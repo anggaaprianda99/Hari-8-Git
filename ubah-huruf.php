@@ -11,7 +11,7 @@ function ubah_huruf($string){
 
 // TEST CASES
 echo ubah_huruf('wow'); // xpx
-echo "<br>";
+echo "<br> ";
 echo ubah_huruf('developer'); // efwfmpqfs
 echo "<br>";
 echo ubah_huruf('laravel'); // mbsbwfm
